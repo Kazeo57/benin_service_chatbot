@@ -2,6 +2,7 @@
 Here is  a work on Chatbot for public service poewered by Retrieval Augmented Generation.
 
 ## Installation
+https://images.app.goo.gl/QZyPaD8WQwEDjAwf7
 ### Back-end Chatbot
 1. Clone the github in local with:
    ```
