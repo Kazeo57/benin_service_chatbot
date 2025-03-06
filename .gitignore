@@ -12,7 +12,7 @@ __pycache__/
 *.pyc
 
 #  Ignorer les environnements virtuels et les variabes d'environnement
-chatenv/
+botenv/
 *.env
 
 #Ignorer les fichiers système (Windows, macOS)

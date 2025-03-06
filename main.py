@@ -163,7 +163,7 @@ def chat(query="Je voudrais un passeport ordinaire,je suis Béninois résident a
     response=output.get('result')
     return response
 
-print(chat())
+#print(chat())
 
 
 
