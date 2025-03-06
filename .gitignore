@@ -1,0 +1,20 @@
+#  Ignorer les fichiers de ChromaDB
+services_db/
+*.sqlite3
+*.parquet
+*.pkl
+
+#  Ignorer les fichiers de logs et temporaires
+*.log
+*.tmp
+*.cache
+__pycache__/
+*.pyc
+
+#  Ignorer les environnements virtuels et les variabes d'environnement
+chatenv/
+*.env
+
+#Ignorer les fichiers système (Windows, macOS)
+.DS_Store
+Thumbs.db
