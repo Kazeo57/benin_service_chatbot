@@ -28,13 +28,15 @@ Here is  a work on Chatbot for public service poewered by Retrieval Augmented Ge
    ``` 
    python create_db.py
    ```
-   
+
+### Front-end Chatbot
+   (to update)
 
    
 ## Usage
    
    ```
-   -An app is connected to it to use all functionality
+   -An app is connected to it to use all functionality (to update)
    ```
 
 
