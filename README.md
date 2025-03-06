@@ -3,7 +3,7 @@ Here is  a work on Chatbot for public service poewered by Retrieval Augmented Ge
 
 ## Installation
 <div align="center">
-  <img src="https://images.app.goo.gl/QZyPaD8WQwEDjAwf7.jpg" alt="Let's travel!" width="100%" height="600">
+  <img src="https://archive.apdp.bj/wp-content/uploads/2020/06/banorservicepub-scaled.jpg" alt="Logo Public Service" width="100%" height="600">
 </div>
 
 
