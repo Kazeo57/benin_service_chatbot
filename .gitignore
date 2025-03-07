@@ -18,3 +18,4 @@ botenv/
 #Ignorer les fichiers système (Windows, macOS)
 .DS_Store
 Thumbs.db
+.vercel
