@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 
 load_dotenv()
-GOOGLE_API_KEY=os.getenv('google_api_key')
+GOOGLE_API_KEY=os.getenv('AIzaSyCtaFMQf3je9uzSIzQlBapkRbkizj24D3M')
 embeddings=GoogleGenerativeAIEmbeddings(google_api_key=GOOGLE_API_KEY,model="models/text-embedding-004")
 
 
