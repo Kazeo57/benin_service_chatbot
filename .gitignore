@@ -1,8 +1,8 @@
 #  Ignorer les fichiers de ChromaDB
-services_db/
-*.sqlite3
-*.parquet
-*.pkl
+#services_db/
+#*.sqlite3
+#*.parquet
+#*.pkl
 
 #  Ignorer les fichiers de logs et temporaires
 *.log
