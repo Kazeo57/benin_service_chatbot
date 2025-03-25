@@ -81,7 +81,7 @@ embeddings
 
 
 vector_store_loaded=Chroma(
-    persist_directory="E:/NLP practice/services_db",
+    persist_directory="services_db",
     collection_name='online_service_22_02_2025',
     embedding_function=embeddings,
 )
@@ -140,7 +140,7 @@ prompt = PromptTemplate(
 #embeddings=GoogleGenerativeAIEmbeddings(google_api_key=GOOGLE_API_KEY,model="models/text-embedding-004")
 
 qa = RetrievalQA.from_chain_type(
-    llm=ChatGoogleGenerativeAI(google_api_key=GOOGLE_API_KEY,model='gemini-1.5-flash',temperature=0),#google_api_key=),
+    llm=ChatGoogleGenerativeAI(google_api_key=GOOGLE_API_KEY,model='gemini-1.5-flash',temperature=1),#google_api_key=),
     chain_type='stuff',
     retriever=retriever,
     verbose=True,
