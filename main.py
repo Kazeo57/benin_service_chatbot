@@ -96,7 +96,7 @@ print("Collection",vector_store_loaded._collection.count())
 retriever=vector_store_loaded.as_retriever(
     #task_type="semantic_similarity",
     search_type="mmr",#"similarity",#
-    search_kwargs={"k":15}
+    search_kwargs={"k":5}
 )
 
 #query="Quelles sont les démarches pour avoir mon CIP?"
