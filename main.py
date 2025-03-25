@@ -95,7 +95,7 @@ print("Collection",vector_store_loaded._collection.count())
 
 retriever=vector_store_loaded.as_retriever(
     #task_type="semantic_similarity",
-    search_type="mmr",#"similarity",#
+    search_type="similarity",#"mmr",,#
     search_kwargs={"k":5}
 )
 
